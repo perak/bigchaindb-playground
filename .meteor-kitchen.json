@@ -1,0 +1,341 @@
+{
+	"output_files": [
+		{
+			"path": "imports/ui/router/router.jsx",
+			"checksum": "381f2b297a5c04fe8dabe72f25ccf5d8e80fdce1"
+		},
+		{
+			"path": "imports/api/server_routes/router.js",
+			"checksum": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+		},
+		{
+			"path": "imports/startup/client/client.js",
+			"checksum": "60f919a2ee623f45c027bc9dc2787d401176e76b"
+		},
+		{
+			"path": "client/index.html",
+			"checksum": "9f8945ab59ba2c681160726c26e6485adf79a9ec"
+		},
+		{
+			"path": "imports/startup/server/server.js",
+			"checksum": "8079da324be1ef39544df258e6d613804a358d8b"
+		},
+		{
+			"path": "imports/ui/pages/not_found/not_found.jsx",
+			"checksum": "fadaa2367aa2f1a3ec156b9b338252456cf15e7d"
+		},
+		{
+			"path": "imports/ui/pages/loading/loading.jsx",
+			"checksum": "6b36bcf7af253490f0fe8bc0a4bd83cd161450b1"
+		},
+		{
+			"path": "imports/ui/stylesheets/styles/theme/themefix.import.less",
+			"checksum": "65d94792bea5905f40f9cde2d071a921ca342839"
+		},
+		{
+			"path": "imports/ui/stylesheets/styles/theme/bootswatch.import.less",
+			"checksum": "f8f6bbdd864036e12c390b9cbaa3ecce06494e87"
+		},
+		{
+			"path": "imports/ui/stylesheets/styles/theme/theme.import.less",
+			"checksum": "f04733519720132ea291b6b3ad138181bf83bab4"
+		},
+		{
+			"path": "imports/ui/stylesheets/styles/theme/variables.import.less",
+			"checksum": "2579c5db372a76ecf05a56c7ce253d310dc30772"
+		},
+		{
+			"path": "imports/ui/stylesheets/styles/styles.less",
+			"checksum": "f3cff6f59a6cffebb298fabe2ba03b9da077900f"
+		},
+		{
+			"path": "imports/ui/layouts/layout.jsx",
+			"checksum": "f2c39a0b927853be83ee12702bf1ed3dd0aaf6bb"
+		},
+		{
+			"path": "imports/ui/pages/home/home.jsx",
+			"checksum": "3cc8b7425b29d089842f16e9c2b20d97126080f4"
+		},
+		{
+			"path": "imports/api/collections/both/data.js",
+			"checksum": "8bd604f8a794cdcaacd44272209a1864b40e57dc"
+		},
+		{
+			"path": "imports/api/methods/data.js",
+			"checksum": "f409f9e851e3e0cff7d743eb58ad5884bd9bfe9a"
+		},
+		{
+			"path": "imports/api/collections/server/rules/data.js",
+			"checksum": "00bb06abea0c85c3ca0136db5c7c27a478bc26b0"
+		},
+		{
+			"path": "imports/api/collections/server/publications/data.js",
+			"checksum": "fc281aa40798cf0bbac1c8c7ebcc1cb8014ff3ac"
+		},
+		{
+			"path": "imports/api/collections/both/log.js",
+			"checksum": "389d193ba4511b88ba97a15f7689e5e00182c34d"
+		},
+		{
+			"path": "imports/api/methods/log.js",
+			"checksum": "ae80299b42a8eb40cfcbc716376668daed1a58b2"
+		},
+		{
+			"path": "imports/api/collections/server/rules/log.js",
+			"checksum": "58f6411ebe861bae98d065910b36fe83138b5e90"
+		},
+		{
+			"path": "imports/api/collections/server/publications/log.js",
+			"checksum": "dd406a0778e8372f5adead3b022c4dcfdceacd57"
+		},
+		{
+			"path": "imports/api/collections/server/bigchaindb_connection.js",
+			"checksum": "ebf2bddef945c12c7f6600be6960b0dd2d89da42"
+		},
+		{
+			"path": "imports/api/methods/bdb_connect.js",
+			"checksum": "ac3cedb2fd91ff335e23df7ffdbe2ebf83ff24ff"
+		},
+		{
+			"path": "client/main.js",
+			"checksum": "eabf8ceeadf9b5d581958b983b414399992e5b57"
+		},
+		{
+			"path": "server/main.js",
+			"checksum": "0cba7ee84bd556b9bf461412ac2d163713627941"
+		},
+		{
+			"path": "imports/modules/both/string_utils.js",
+			"checksum": "215c11cdc7fe58b07003e05b6d5534e35fd08eb9"
+		},
+		{
+			"path": "imports/modules/both/object_utils.js",
+			"checksum": "d20483523b4ab473de72120817b5e3d97ee13291"
+		},
+		{
+			"path": "imports/modules/both/date_utils.js",
+			"checksum": "37c5c6604bac27dd7f0831382cefee28fbd5fc96"
+		},
+		{
+			"path": "imports/modules/client/globals/init.js",
+			"checksum": "0774fd32553323b79b06ad86f6d078425abc8e37"
+		},
+		{
+			"path": "imports/modules/client/http_utils.js",
+			"checksum": "53b1b7f072acdeaafac35550154b1f9cbad24bf4"
+		},
+		{
+			"path": "imports/modules/client/router_utils.js",
+			"checksum": "fd12420e94531946b6c0d57634ad2c80ea4b274b"
+		},
+		{
+			"path": "imports/ui/components/confirmation_dialog/confirmation_dialog.jsx",
+			"checksum": "8f161386ef7b5bfc0b1eb357c9b6f2a45b833731"
+		},
+		{
+			"path": "imports/ui/components/input_dialog/input_dialog.jsx",
+			"checksum": "5293cf0e9ec94a1970b3ef1bf2e637aa45eb7b39"
+		},
+		{
+			"path": "imports/ui/components/choice_dialog/choice_dialog.jsx",
+			"checksum": "486c445b8df959549f604986b42250d09c21edb6"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3/custom.bootstrap.json",
+			"checksum": "59c3803dde72dfd34e95a52dc4f5cae65018ec38"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3/custom.bootstrap.import.less",
+			"checksum": "8007cd69773c1c62284460f7c0fd8310e7f60094"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3/custom.bootstrap.less",
+			"checksum": "a114a65d406f228e4137a3fb7b33047c40a5cd68"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3/custom.bootstrap.mixins.import.less",
+			"checksum": "b53332a4c7dffc57aefda1db82b4e09258dad07a"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_cz.js",
+			"checksum": "146a2a2bd0e89b62b775eee929907970e875ddf6"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput.js",
+			"checksum": "38c7d5c7dee7b7b910fce8e5192c5eb008a58f1e"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_th.js",
+			"checksum": "05fec04f2b334bd579126eeb54321fbec516470f"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_ru.js",
+			"checksum": "4939e4b72d235b9a68602aba3501bd72bde77611"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_pt.js",
+			"checksum": "f1d3b0c83a6a10b6e1cd7b8f523a98a7a51720ac"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_pl.js",
+			"checksum": "77ce969c9532dc4cda50d57bad7c8e8c9e792386"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_el.js",
+			"checksum": "d00eebe17389c41dbdfdd5611573ba52169f16eb"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_pt-BR.js",
+			"checksum": "8caeab2c4b40a90eba4412eb5a31c76405e5a04a"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_es.js",
+			"checksum": "6eb5775359ee3e6199962d05fb6a2ddf79426766"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_sk.js",
+			"checksum": "1dc9d65243156006cf762ed85cdf36501c27f38a"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_it.js",
+			"checksum": "09d41c11dadf15f197bd443f5ad01a68e3408bde"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_ro.js",
+			"checksum": "7fcbd870c67fbd4646b6b53c4e07f84ebaf6ebd1"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_tr.js",
+			"checksum": "25e2ea3f23c594180a3496f814ae907343de1add"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_LANG.js",
+			"checksum": "e80901eda8d09ee66e3375ddd6d7f7a53dbfcda8"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_fr.js",
+			"checksum": "aea834881f99fe187153560b32011c2af7f56092"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_nl.js",
+			"checksum": "106dfa775832df6830675c8927603a813063986c"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_uk.js",
+			"checksum": "f5f6b5052a111fa87a5da8608a5d137d4116e6c5"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_zh.js",
+			"checksum": "f477aede4974871fc0ba71d3ed4f90d8b9f1a74e"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_hu.js",
+			"checksum": "500bfd774110b73e07e9f4e23a4cbf9c896fbcea"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_sr.js",
+			"checksum": "50ac58590814ab9959e34d94a4b2bb8cf9be35b9"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput.css",
+			"checksum": "30ba45c948bcb125cf0cb550b4a9d2f13ffcc710"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_de.js",
+			"checksum": "fcad7c9406cb7ab1959ee5a62825a62b905f34a2"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/plugins.js",
+			"checksum": "d2ec9b77d3b51c8be4511ea3ea76074bf10bb9e2"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-tagsinput/bootstrap-tagsinput.css",
+			"checksum": "49937990ee001ae632d23d1e9bb71dc4460ac7c1"
+		},
+		{
+			"path": "imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-tagsinput/bootstrap-tagsinput.js",
+			"checksum": "6f25a97cb1bb9b8edcf0cb297eabfc9f94f1a80d"
+		},
+		{
+			"path": "imports/modules/client/form_utils.js",
+			"checksum": "1e972818b4168d1dad764233bcd4c27283462aff"
+		}
+	],
+	"output_directories": [
+		"client/",
+		"imports/",
+		"imports/api/",
+		"imports/api/collections/both/",
+		"imports/api/collections/both/joins/",
+		"imports/api/collections/server/",
+		"imports/api/collections/server/publications/",
+		"imports/api/collections/server/rules/",
+		"imports/api/methods/",
+		"imports/api/server_routes/",
+		"imports/modules/",
+		"imports/modules/both/",
+		"imports/modules/client/",
+		"imports/modules/client/globals/",
+		"imports/modules/server/",
+		"imports/startup/",
+		"imports/startup/client/",
+		"imports/startup/server/",
+		"imports/ui/",
+		"imports/ui/components/",
+		"imports/ui/components/choice_dialog/",
+		"imports/ui/components/confirmation_dialog/",
+		"imports/ui/components/input_dialog/",
+		"imports/ui/layouts/",
+		"imports/ui/pages/",
+		"imports/ui/pages/home/",
+		"imports/ui/pages/loading/",
+		"imports/ui/pages/not_found/",
+		"imports/ui/router/",
+		"imports/ui/stylesheets/",
+		"imports/ui/stylesheets/framework/",
+		"imports/ui/stylesheets/framework/bootstrap3-plugins/",
+		"imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-fileinput/",
+		"imports/ui/stylesheets/framework/bootstrap3-plugins/bootstrap-tagsinput/",
+		"imports/ui/stylesheets/framework/bootstrap3/",
+		"imports/ui/stylesheets/styles/",
+		"imports/ui/stylesheets/styles/theme/",
+		"packages/",
+		"private/",
+		"public/",
+		"public/fonts/",
+		"public/images/",
+		"server/"
+	],
+	"packages": {
+		"meteor": [
+			"blaze-html-templates",
+			"kadira:flow-router",
+			"react-meteor-data",
+			"reactive-dict",
+			"meteorhacks:picker",
+			"check",
+			"random",
+			"http",
+			"email",
+			"spiderable",
+			"ejson",
+			"session",
+			"fortawesome:fontawesome",
+			"matb33:collection-hooks",
+			"less",
+			"twbs:bootstrap"
+		],
+		"npm": [
+			"meteor-bigchaindb-collection",
+			"react",
+			"react-dom",
+			"react-mounter",
+			"react-addons-pure-render-mixin",
+			"prop-types",
+			"bcrypt",
+			"moment"
+		],
+		"mrt": [
+		]
+	}
+}
