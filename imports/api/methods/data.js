@@ -6,9 +6,18 @@ Meteor.methods({
 			throw new Meteor.Error(403, "Forbidden.");
 		}
 
-		let options = {
-			publicKey: "HyBFv87h28JuVE1vT3f1EWBadnza7gg2pG298LWnhy2P",
-			privateKey: "6KWcJUaf3mAd3yEoxyAfECxeCKYrL4ZEq2e7GDEW4kEQ"
+		var password = "";
+		if(this.userId) {
+			password = this.userId;
+		} else {
+			password = "meteor-kitchen";
+		}
+
+		var keypair = BDBC.keypairFromPassword(password);
+
+		var options = {
+			publicKey: keypair.publicKey,
+			privateKey: keypair.privateKey
 		};
 
 		return Data.insert(data, null, options);
