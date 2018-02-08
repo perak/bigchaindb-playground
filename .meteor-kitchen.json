@@ -66,7 +66,7 @@
 		},
 		{
 			"path": "imports/api/methods/data.js",
-			"checksum": "f409f9e851e3e0cff7d743eb58ad5884bd9bfe9a"
+			"checksum": "a4b8b01f48dcef96c126cbfba45b9ae6adb3c850"
 		},
 		{
 			"path": "imports/api/collections/server/rules/data.js",
