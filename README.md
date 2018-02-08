@@ -27,11 +27,10 @@ meteor --port 3000
 
 ## Note
 
-This application is automatically generated with https://www.meteorkitchen.com without manual coding.
+This application is automatically generated with https://www.meteorkitchen.com - source code generator for http://www.meteor.com without manual coding.
 
+We are working hard to allow "Meteor Kitchen" to generate distributed applications. We are adding support for BigchainDB and Ethereum smart contracts. This app is first of the kind (built with latest, nightly build version of Meteor Kitchen which is not available to public yet).
 
-*(to be continued)*
-
-That's all folks. 
+Please register at http://www.meteorkitchen.com and stay tuned!
 
 Enjoy! :)
