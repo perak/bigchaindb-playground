@@ -150,6 +150,13 @@ export class FreeLayoutMenu extends Component {
 				</span>
 			</a>
 		</li>
+		<li id="menu-item-simple" className={menuItemClass('about')}>
+			<a href={pathFor('about', {})}>
+				<span className="item-title">
+					About
+				</span>
+			</a>
+		</li>
 	</ul>
 );
 	}
