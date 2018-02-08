@@ -2,7 +2,7 @@
 	"output_files": [
 		{
 			"path": "imports/ui/router/router.jsx",
-			"checksum": "381f2b297a5c04fe8dabe72f25ccf5d8e80fdce1"
+			"checksum": "1f870a27f8df12d921a79364a9a226c5066884a3"
 		},
 		{
 			"path": "imports/api/server_routes/router.js",
@@ -50,11 +50,15 @@
 		},
 		{
 			"path": "imports/ui/layouts/layout.jsx",
-			"checksum": "f2c39a0b927853be83ee12702bf1ed3dd0aaf6bb"
+			"checksum": "a8893517da3a0906871aa2583c6a1f35a1d05344"
 		},
 		{
 			"path": "imports/ui/pages/home/home.jsx",
 			"checksum": "3cc8b7425b29d089842f16e9c2b20d97126080f4"
+		},
+		{
+			"path": "imports/ui/pages/about/about.jsx",
+			"checksum": "24ee49a8156c0e03d8a1baa2f4af710157501736"
 		},
 		{
 			"path": "imports/api/collections/both/data.js",
@@ -259,6 +263,10 @@
 		{
 			"path": "imports/modules/client/form_utils.js",
 			"checksum": "1e972818b4168d1dad764233bcd4c27283462aff"
+		},
+		{
+			"path": "imports/ui/components/markdown/markdown.jsx",
+			"checksum": "2212b32f805f0b59c78642b02f66d3e16a7501af"
 		}
 	],
 	"output_directories": [
@@ -285,8 +293,10 @@
 		"imports/ui/components/choice_dialog/",
 		"imports/ui/components/confirmation_dialog/",
 		"imports/ui/components/input_dialog/",
+		"imports/ui/components/markdown/",
 		"imports/ui/layouts/",
 		"imports/ui/pages/",
+		"imports/ui/pages/about/",
 		"imports/ui/pages/home/",
 		"imports/ui/pages/loading/",
 		"imports/ui/pages/not_found/",
@@ -333,7 +343,8 @@
 			"react-addons-pure-render-mixin",
 			"prop-types",
 			"bcrypt",
-			"moment"
+			"moment",
+			"marked"
 		],
 		"mrt": [
 		]
