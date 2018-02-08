@@ -25,6 +25,11 @@ meteor --port 3000
 ```
 
 
+## Note
+
+This application is automatically generated with https://www.meteorkitchen.com without manual coding.
+
+
 *(to be continued)*
 
 That's all folks. 
